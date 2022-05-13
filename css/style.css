@@ -12,6 +12,17 @@
     width: 100%;
 
 }
+
+.text{
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    width: 300px;
+    text-align:right;
+    font-family: 'Montserrat';
+    font-size: 5;
+}
+
 button{
     padding: 20px 50px;
     font-size: 2rem;
